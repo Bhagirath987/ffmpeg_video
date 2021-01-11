@@ -1,0 +1,3 @@
+C:/Users/iRoid/Desktop/with video recording ffmpeg awsome work/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/sound.dir
+C:/Users/iRoid/Desktop/with video recording ffmpeg awsome work/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/iRoid/Desktop/with video recording ffmpeg awsome work/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

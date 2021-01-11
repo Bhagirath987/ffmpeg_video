@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "C:\\Users\\iRoid\\Desktop\\with video recording ffmpeg awsome work\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\iRoid\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\iRoid\\Desktop\\with video recording ffmpeg awsome work\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "fmodL-Debug-armeabi-v7a": {
+      "artifactName": "fmodL",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\iRoid\\Desktop\\with video recording ffmpeg awsome work\\app\\libs\\armeabi-v7a\\libfmodL.so"
+    },
+    "sound-Debug-armeabi-v7a": {
+      "artifactName": "sound",
+      "buildCommand": "C:\\Users\\iRoid\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\iRoid\\Desktop\\with video recording ffmpeg awsome work\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target sound",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\iRoid\\Desktop\\with video recording ffmpeg awsome work\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libsound.so"
+    },
+    "fmod-Debug-armeabi-v7a": {
+      "artifactName": "fmod",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\iRoid\\Desktop\\with video recording ffmpeg awsome work\\app\\libs\\armeabi-v7a\\libfmod.so"
+    }
+  }
+}
